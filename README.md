@@ -1,4 +1,3 @@
 # Prodigy_infotech
-🔍 Exploring Machine Learning with Predictive Modeling! 🏠
-I'm excited to share that as part of my internship with [Prodigy InfoTech], I've been working on a fascinating project involving house price prediction using linear regression. The model considers key parameters such as area, number of bedrooms, and bathrooms to estimate property values.
-This project has been a fantastic opportunity to deepen my understanding of machine learning algorithms and their real-world applications. .
+🎉 Excited to share that I've received an offer for an internship at ProdigyInfotech as a Machine Learning Intern! 🌟
+At ProdigyInfotech, I'll be diving into the world of machine learning, applying my skills and knowledge to real-world problems. I'm looking forward to collaborating with a talented team, gaining hands-on experience, and contributing to innovative projects.This opportunity aligns perfectly with my passion for AI and my ongoing B.Tech studies in Artificial Intelligence and Data Science.
